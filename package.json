@@ -1,0 +1,20 @@
+{
+  "name": "hubot-newrelic-alerts",
+  "version": "1.0.0",
+  "description": "Push newrelic alerts to your channel",
+  "main": "index.coffee",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruczjak/hubot-newrelic-alerts.git"
+  },
+  "author": "Jakub Kruczek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kruczjak/hubot-newrelic-alerts/issues"
+  },
+  "homepage": "https://github.com/kruczjak/hubot-newrelic-alerts#readme",
+  "dependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
